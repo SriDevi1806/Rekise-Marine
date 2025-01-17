@@ -18,13 +18,12 @@ Installation
 To get started with the Rekise Marine Map App, follow these steps:
 
 Clone the repository: To get a local copy of the code, clone it using git:
-git clone https://github.com/zehan12/rekise_marine_frontend_task/.git
-cd rekise_marine_frontend_task
+git clone : https://github.com/SriDevi1806/Rekise-Marine.git
 Install dependencies:
 npm install
 Run local Server: Now, you can start a local web server by running:
 npm run dev
-And then open http://localhost:5173 to view it in the browser.
+
 
 Libraries and Dependencies
 Library	Description
